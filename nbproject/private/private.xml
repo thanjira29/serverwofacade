@@ -2,6 +2,21 @@
 <project-private xmlns="http://www.netbeans.org/ns/project-private/1">
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
-        <group/>
+        <group>
+            <file>file:/C:/Users/320S-USER/Desktop/my%20assignment/assignment1-63/Component/ex3/serverwofacade/src/serverwofacade/facade/initializeContext.java</file>
+            <file>file:/C:/Users/320S-USER/Desktop/my%20assignment/assignment1-63/Component/ex3/serverwofacade/src/serverwofacade/facade/initializeListeners.java</file>
+            <file>file:/C:/Users/320S-USER/Desktop/my%20assignment/assignment1-63/Component/ex3/serverwofacade/src/serverwofacade/facade/init.java</file>
+            <file>file:/C:/Users/320S-USER/Desktop/my%20assignment/assignment1-63/Component/ex3/serverwofacade/src/serverwofacade/facade/shutdown.java</file>
+            <file>file:/C:/Users/320S-USER/Desktop/my%20assignment/assignment1-63/Component/ex3/serverwofacade/src/serverwofacade/facade/destory.java</file>
+            <file>file:/C:/Users/320S-USER/Desktop/my%20assignment/assignment1-63/Component/ex3/serverwofacade/src/serverwofacade/facade/destoryListeners.java</file>
+            <file>file:/C:/Users/320S-USER/Desktop/my%20assignment/assignment1-63/Component/ex3/serverwofacade/src/serverwofacade/facade/createSystemObjects.java</file>
+            <file>file:/C:/Users/320S-USER/Desktop/my%20assignment/assignment1-63/Component/ex3/serverwofacade/src/serverwofacade/facade/ScheduleServer.java</file>
+            <file>file:/C:/Users/320S-USER/Desktop/my%20assignment/assignment1-63/Component/ex3/serverwofacade/src/serverwofacade/facade/destroySystemObjects.java</file>
+            <file>file:/C:/Users/320S-USER/Desktop/my%20assignment/assignment1-63/Component/ex3/serverwofacade/src/serverwofacade/main/ServerWOFacade.java</file>
+            <file>file:/C:/Users/320S-USER/Desktop/my%20assignment/assignment1-63/Component/ex3/serverwofacade/src/serverwofacade/facade/destoryContext.java</file>
+            <file>file:/C:/Users/320S-USER/Desktop/my%20assignment/assignment1-63/Component/ex3/serverwofacade/src/serverwofacade/facade/readSystemConfigFile.java</file>
+            <file>file:/C:/Users/320S-USER/Desktop/my%20assignment/assignment1-63/Component/ex3/serverwofacade/src/serverwofacade/facade/startBooting.java</file>
+            <file>file:/C:/Users/320S-USER/Desktop/my%20assignment/assignment1-63/Component/ex3/serverwofacade/src/serverwofacade/facade/releaseProcesses.java</file>
+        </group>
     </open-files>
 </project-private>

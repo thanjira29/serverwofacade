@@ -3,11 +3,18 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
+package serverwofacade.main;
 
-package serverwofacade;
+import serverwofacade.facade.ScheduleServer;
+
 public class ServerWOFacade {
+
+    /**
+     *
+     * @param args
+     */
     public static void main(String[] args) {
-        ScheduleServer scheduleServer = new ScheduleServer();
+    ScheduleServer scheduleServer = ScheduleServer.getScheduleServerObj();
 	scheduleServer.startBooting();
 	scheduleServer.readSystemConfigFile();
 	scheduleServer.init();
